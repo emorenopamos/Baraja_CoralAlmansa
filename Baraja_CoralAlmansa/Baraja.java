@@ -6,7 +6,7 @@ import java.util.Iterator;
 
 /**
  * Clase baraja. Esto es una modificacion hecha por Estefania Moreno Pamos
- * 
+ * Segunda modificacion hecha con ramas
  * @author Coral Almansa Dominguez
  * @version 1.0
  * 

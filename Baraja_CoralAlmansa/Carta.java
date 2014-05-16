@@ -2,7 +2,7 @@ package baraja;
 
 /**
  * Clase carta modificada por Estefania Moreno Pamos
- * 
+ * Segunda modificacion hecha con ramas
  * @author Coral Almansa Dominguez
  * @version 1.0
  * 
