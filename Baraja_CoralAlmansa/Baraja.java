@@ -5,9 +5,9 @@ import java.util.Collections;
 import java.util.Iterator;
 
 /**
- * Clase baraja
+ * Clase baraja. Esto es una modificacion hecha por Estefania Moreno Pamos
  * 
- * @author Jose Manuel Garcia Valverde
+ * @author Coral Almansa Dominguez
  * @version 1.0
  * 
  */

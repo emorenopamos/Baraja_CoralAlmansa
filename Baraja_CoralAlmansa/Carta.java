@@ -1,9 +1,9 @@
 package baraja;
 
 /**
- * Clase carta
+ * Clase carta modificada por Estefania Moreno Pamos
  * 
- * @author Jose Manuel Garcia Valverde
+ * @author Coral Almansa Dominguez
  * @version 1.0
  * 
  */
